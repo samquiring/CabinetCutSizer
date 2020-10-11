@@ -1,14 +1,14 @@
-Reasoning:
-
-  This program is intended to help my Father who is a general contractor which entails cabinet making. The material used is quite expensive
-so often times creating a "rip sheet" is a time consuming and stressful proccess. It entails looking at all the measurements taken on the
-job and finding the best way to cut 4x8 sheets of wood to create the least amount of needed cuts and while also having the least amount of waste.
+  This program is intended to help my father, a General Contractor, in cabinet making but can be useful to any cabinet maker that is a little tech savy.
+The material used in cabinets is quite expensive so often times creating a "rip sheet" is a time consuming and stressful proccess.
+This entails looking at all the measurements taken on the job and finding the best way to cut 4x8 sheets of wood
+to create the least amount of needed cuts and while also having the least amount of waste. 
+This was quite a unique optimization problem and so I figured it would be a perfect way to build a better understanding of Python. 
 
 How to use:
 
 1. Organize all Cuts neatly into an excel file and put each different type of wood and/or different 
-   thickness of wood into different excel sheets. See example.xls for example of what this should look
-   like
+   thickness of wood into different excel sheets
+   (See example.xls for example of what this should lookl like)
 2. create a blank output excel file that the rips can be written onto or use an existing file
    (your previous sheets on the file will not be overwritten)
 3. Download Python 3.x
@@ -18,4 +18,4 @@ How to use:
 7. Run CabinetCutGUI.py
 8. Select your input, then output, then click run
 9. view your output file. The number in the 1st row is the rip size and the numbers below are the cuts to make on that specific rip
-10. Cut the wood!
+10. Cut the wood and build your cabinets!
